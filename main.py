@@ -1,4 +1,4 @@
-from replit import clear  # you will need to add the replit package if using IDE
+from replit import clear  # you will need to add the replit package if using IDE.
 from art import logo
 
 
@@ -32,4 +32,4 @@ while add_participants:
         find_bid_winner(bidding_participants)
 
     else:
-        clear()
+        clear()  # clears the terminal
