@@ -1,4 +1,4 @@
-from replit import clear
+from replit import clear  # you will need to add the replit package if using IDE
 from art import logo
 
 
